@@ -49,4 +49,3 @@ If everything went good, now at `https://github.com/FWAPP-UniUD/hello-world-<you
 Contributors:
     
 * Luca Di Gaspero
-*Giovanna Scialino
